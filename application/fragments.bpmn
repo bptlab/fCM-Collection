@@ -129,7 +129,7 @@
             <targetRef>sid-6DF270EF-C70E-4E82-AFF4-B2E672A43362</targetRef>
          </dataOutputAssociation>
       </task>
-      <task completionQuantity="1" id="sid-3DB95C10-5DF2-43BC-ADC9-C2D62CFEB03B" isForCompensation="false" name="recieve&#10;application" startQuantity="1">
+      <task completionQuantity="1" id="sid-3DB95C10-5DF2-43BC-ADC9-C2D62CFEB03B" isForCompensation="false" name="receive&#10;application" startQuantity="1">
          <extensionElements>
             <signavio:signavioMetaData metaKey="bgcolor" metaValue="#ffffcc"/>
             <signavio:signavioMetaData metaKey="bordercolor" metaValue="#000000"/>
@@ -724,7 +724,7 @@
          </extensionElements>
          <dataState id="sid-c25bad46-c7fb-4fd0-8f70-3f656617e6a7" name="[open]"/>
       </dataObjectReference>
-      <dataObjectReference dataObjectRef="sid-8fb64cb3-1b97-46ca-b185-ca007da84d57" id="sid-011E29AE-71CC-4AAD-AB72-5775938F537E" name="job&#10;posting [[created]]">
+      <dataObjectReference dataObjectRef="sid-8fb64cb3-1b97-46ca-b185-ca007da84d57" id="sid-011E29AE-71CC-4AAD-AB72-5775938F537E" name="job&#10;posting [[open]]">
          <extensionElements>
             <signavio:signavioMetaData metaKey="bgcolor" metaValue="#ffffff"/>
             <signavio:signavioMetaData metaKey="bordercolor" metaValue="#000000"/>

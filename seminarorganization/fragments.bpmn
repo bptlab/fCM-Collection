@@ -53,7 +53,7 @@
             <targetRef>sid-7549FDF2-FAD0-4C08-8562-204E1ABEE553</targetRef>
          </dataOutputAssociation>
       </task>
-      <task completionQuantity="1" id="sid-B8E742C4-BC4A-4384-80FE-75E659DAE3B2" isForCompensation="false" name="speciy seminar&#10;requirements" startQuantity="1">
+      <task completionQuantity="1" id="sid-B8E742C4-BC4A-4384-80FE-75E659DAE3B2" isForCompensation="false" name="specify seminar&#10;requirements" startQuantity="1">
          <extensionElements>
             <signavio:signavioMetaData metaKey="bgcolor" metaValue="#ffffcc"/>
             <signavio:signavioMetaData metaKey="bordercolor" metaValue="#000000"/>

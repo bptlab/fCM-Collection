@@ -39,7 +39,7 @@
             <dataOutputRefs>sid-c9e4dafe-70bd-45b4-b85d-5c98e213255b</dataOutputRefs>
          </outputSet>
       </startEvent>
-      <task completionQuantity="1" id="sid-74B63363-96C7-4E32-B2BD-2057D16E244D" isForCompensation="false" name="publish&#10;CoP" startQuantity="1">
+      <task completionQuantity="1" id="sid-74B63363-96C7-4E32-B2BD-2057D16E244D" isForCompensation="false" name="publish&#10;CfP" startQuantity="1">
          <extensionElements>
             <signavio:signavioMetaData metaKey="bgcolor" metaValue="#FFFFFF"/>
             <signavio:signavioMetaData metaKey="bordercolor" metaValue="#000000"/>
@@ -577,7 +577,7 @@
             <targetRef>sid-88ff087e-8c27-41d7-95bc-c2f575115a21</targetRef>
          </dataInputAssociation>
       </task>
-      <task completionQuantity="1" id="sid-2E93B243-3124-47A1-A184-0B749E764702" isForCompensation="false" name="send &#10;CoP" startQuantity="1">
+      <task completionQuantity="1" id="sid-2E93B243-3124-47A1-A184-0B749E764702" isForCompensation="false" name="send &#10;CfP" startQuantity="1">
          <extensionElements>
             <signavio:signavioMetaData metaKey="bgcolor" metaValue="#FFFFFF"/>
             <signavio:signavioMetaData metaKey="bordercolor" metaValue="#000000"/>
